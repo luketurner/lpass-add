@@ -12,6 +12,10 @@ I built this tool for cases where you have private keys that are moderately impo
 
 Using LastPass adds quite a bit of overhead to a local-filesystem-based key management process. If you aren't familiar with LastPass or the [lpass](https://github.com/lastpass/lastpass-cli) tool, check that out first -- there's a bit of a learning curve.
 
+**Q:** Why use LastPass instead of \<X>?
+
+**A:** Check out the "Why LastPass?" section of my [announcement blog post](http://blog.luketurner.org/announcing-lpass-add-and-lpass-env-ergonomically-get-secrets-out-of-lastpass).
+
 ## Installation
 
 It's just a Bash script. You can install it however you want, but something like this seems pretty popular:
