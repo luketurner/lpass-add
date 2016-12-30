@@ -78,7 +78,7 @@ For example, I might put a public key at:
 $ lpass edit --notes SSH/mycompany/test/deployment-pubkey
 ```
 
-I recommend you find an organizational system that works well for you. 
+I recommend you find an organizational system that works well for you. `lpass-add` doesn't care about anything except the Notes field in the entry, so there is a lot of flexibility for integrating it into any LastPass power-user setup.
 
 
 ---
